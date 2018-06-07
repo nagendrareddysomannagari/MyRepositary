@@ -1,0 +1,14 @@
+E:\DigitalGold\DigitalGold\DigitalClassBusiness\obj\Debug\DigitalGoldBusiness.csprojResolveAssemblyReference.cache
+E:\DigitalGold\DigitalGold\DigitalClassBusiness\bin\Debug\DigitalClassBusiness.dll
+E:\DigitalGold\DigitalGold\DigitalClassBusiness\bin\Debug\DigitalClassBusiness.pdb
+E:\DigitalGold\DigitalGold\DigitalClassBusiness\bin\Debug\DigitalGoldModel.dll
+E:\DigitalGold\DigitalGold\DigitalClassBusiness\bin\Debug\DigitalGoldModel.pdb
+E:\DigitalGold\DigitalGold\DigitalClassBusiness\obj\Debug\DigitalClassBusiness.dll
+E:\DigitalGold\DigitalGold\DigitalClassBusiness\obj\Debug\DigitalClassBusiness.pdb
+C:\DigitalGold\DigitalGold\DigitalClassBusiness\bin\Debug\DigitalClassBusiness.dll
+C:\DigitalGold\DigitalGold\DigitalClassBusiness\bin\Debug\DigitalClassBusiness.pdb
+C:\DigitalGold\DigitalGold\DigitalClassBusiness\bin\Debug\DigitalGoldModel.dll
+C:\DigitalGold\DigitalGold\DigitalClassBusiness\bin\Debug\DigitalGoldModel.pdb
+C:\DigitalGold\DigitalGold\DigitalClassBusiness\obj\Debug\DigitalGoldBusiness.csprojResolveAssemblyReference.cache
+C:\DigitalGold\DigitalGold\DigitalClassBusiness\obj\Debug\DigitalClassBusiness.dll
+C:\DigitalGold\DigitalGold\DigitalClassBusiness\obj\Debug\DigitalClassBusiness.pdb

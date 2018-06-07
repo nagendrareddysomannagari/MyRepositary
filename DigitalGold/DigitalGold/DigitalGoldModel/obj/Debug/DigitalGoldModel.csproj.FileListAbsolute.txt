@@ -1,0 +1,10 @@
+E:\DigitalGold\DigitalGold\DigitalGoldModel\bin\Debug\DigitalGoldModel.dll
+E:\DigitalGold\DigitalGold\DigitalGoldModel\bin\Debug\DigitalGoldModel.pdb
+E:\DigitalGold\DigitalGold\DigitalGoldModel\obj\Debug\DigitalGoldModel.csprojResolveAssemblyReference.cache
+E:\DigitalGold\DigitalGold\DigitalGoldModel\obj\Debug\DigitalGoldModel.dll
+E:\DigitalGold\DigitalGold\DigitalGoldModel\obj\Debug\DigitalGoldModel.pdb
+C:\DigitalGold\DigitalGold\DigitalGoldModel\bin\Debug\DigitalGoldModel.dll
+C:\DigitalGold\DigitalGold\DigitalGoldModel\bin\Debug\DigitalGoldModel.pdb
+C:\DigitalGold\DigitalGold\DigitalGoldModel\obj\Debug\DigitalGoldModel.csprojResolveAssemblyReference.cache
+C:\DigitalGold\DigitalGold\DigitalGoldModel\obj\Debug\DigitalGoldModel.dll
+C:\DigitalGold\DigitalGold\DigitalGoldModel\obj\Debug\DigitalGoldModel.pdb
